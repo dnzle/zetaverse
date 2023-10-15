@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zetaverse
-- 👀 I’m interested in generative art and music.
-- 🌱 I’m currently learning python and swift
-- 💞️ I’m looking to collaborate on generative art and music software.
+- 👀 I’m interested in generative art, gamedev, and music.
+- 🌱 I’m currently learning Canvas2D, Godot4, Procreate, and Affinity Designer.
+- 💞️ I’m looking to collaborate on generative art and gamedev projects.
 - 📫 How to reach me: [@zetaverse](https://www.twitter.com/zetaverse) on Twitter
 
 <!---
