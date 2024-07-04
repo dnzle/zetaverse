@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dnzle
+- 👋 Hi, I’m @zetaverse
 - 👀 I’m interested in generative art, gamedev, and music.
 - 🌱 I’m currently learning Google Appscript and Canvas 2D.
 - 💞️ I’m looking to collaborate on generative art and gamedev projects.
